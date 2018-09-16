@@ -1,0 +1,18 @@
+# navigation
+[nav]
+home = "首页"
+archive = "归档"
+about = "关于我"
+source = "代码"
+
+# about post
+[post]
+list = "所有文章"
+archive = "归档"
+tag = "标签"
+readmore = "Read More"
+
+# about pagination
+[pager]
+prev = "更新的"
+next = "以前的"
